@@ -1,1 +1,1 @@
-Bu uygulama, appsettings.json dosyasında belirtilen API linkine 100 adet istek göndererek dönen JSON verisindeki byte boyut bilgisini kontrol eder. JSON içeriğinde bulunan byte değeri belirlenen limit ile karşılaştırılır ve bu değerin fazla mı yoksa az mı olduğu raporlanır.
+Bu uygulama, appsettings.json dosyasında belirtilen API linkine 100 adet istek göndererek dönen JSON verisindeki byte boyut bilgisini kontrol eder. JSON içeriğinde bulunan byte değeri belirlenen limit ile karşılaştırılır ve bu değerin fazla mı yoksa az mı olduğu sayılır.
